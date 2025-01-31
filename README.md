@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about **Frontend Web Development & Visual D
 - **BA** in **Politcal Science** – **Democritus University of Thrace**.
   - 📆 2016 - 2022
 - **Vocational Education and Training Certificate** in **Full Stack Programming** – **Athens University of Economics and Business**.
-  - 📆 2016 - 2022  
+  - 📆 2023 - 2024  
 
 ## 🔧 Technologies & Tools  
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about **Frontend Web Development & Visual D
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theotheodoridis98&show_icons=true&theme=dark)  
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thodoristheodoridis)  
