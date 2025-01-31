@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm passionate about **Frontend Web Development & Visual Design**.  
 
 ## 🔹 About Me  
-- 💻 I work as a **Salesforce Developer** at **[Deloitte Digital]** as of February 2024.
+- 💻 I work as a **Salesforce Developer** at **Deloitte Digital** as of February 2024.
 - 📫 Reach me at: **theotheodoridis98@gmail.com**  
 
 ## 🎓 Education  
@@ -22,11 +22,16 @@ Welcome to my GitHub! I'm passionate about **Frontend Web Development & Visual D
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)  
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theotheodoridis98&show_icons=true&theme=dark)  
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thodoristheodoridis)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thodoristheodoridis)
 
 🚀 **Thanks for stopping by!** Feel free to explore my repositories. 😊  
