@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thodoris Theodoridis.  
 
-Welcome to my GitHub! I'm passionate about **Frontend Web Development & Visual Design**.  
+Welcome to my GitHub!
 
 ## 🔹 About Me  
 - 💻 I work as a **Salesforce Developer** at **Deloitte Digital** as of February 2024.
